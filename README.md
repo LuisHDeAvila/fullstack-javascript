@@ -1,6 +1,6 @@
 # Aplicacion fullstack
 Aplicacion javascript puro desde cero, hasta despliegue en la nube.
-![alt image](screenshot.png)
+![alt image](screnshot.png)
 ## Modelos de negocio
 
 
