@@ -1,6 +1,6 @@
 # Aplicacion fullstack
 Aplicacion javascript puro desde cero, hasta despliegue en la nube.
-
+![alt image](FireShot Capture 004 - Computer Products - localhost.png)
 ## Modelos de negocio
 
 
